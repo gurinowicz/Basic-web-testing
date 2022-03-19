@@ -1,4 +1,6 @@
 # Yana Gurinovich
+## Junior Frontend Developer
+Self-taught frontend developer with a great comprehension of JavaScript, React.JS, HTML and CSS. Background in IT recruiter (5+ years). Interested in growing as a skilled software engineer.
 
 ## Contact information
 + 📍 Minsk, Belarus
