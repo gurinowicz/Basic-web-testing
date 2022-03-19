@@ -8,7 +8,7 @@
 + 🏷️ Discord Yana_G#5658
 
 ## Notable projects
-https://github.com/gurinowicz/rssschool-cv
+https://gurinowicz.github.io/rsschool-cv/cv
 
 ## My goal
 Is to get as much knowledge as possible, the ability to write concise algorithms, to study well js for employment as a frontend developer in a company.
