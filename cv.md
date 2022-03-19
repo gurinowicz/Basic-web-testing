@@ -14,6 +14,7 @@ https://github.com/gurinowicz/rssschool-cv
 Is to get as much knowledge as possible, the ability to write concise algorithms, to study well js for employment as a frontend developer in a company.
 
 ## My code
+
 ```
 function divisors(integer) {
     var i=0, arr = [];
